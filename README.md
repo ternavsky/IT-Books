@@ -1,6 +1,54 @@
 # IT Books and Resources
 **IT, Programming &amp; Computer science books and resources**
 
+## Software Architecture 
+
+1. Domain Driven Design (Vaughn Vernon)
+
+2. Enterprise Integration Patterns (Gregor Hohpe, Bobby Wolf)
+
+3. Software system architecture (Nick Rozanski, Eoin Woods)
+
+4. Building Evolutionary Architectures (Neal Ford, Rebecca Parsons & Patrick Kua)
+
+5. Function and Reactive Domain Modeling (Debasish Ghosh)
+
+6. Practical Microservices Architectural Patterns (Binidias Christudas)
+
+7. Архитектура предприятия (Андрей Коротков)
+
+8. Architecting for Scale (Lee Atchison)
+
+9. Архитектура корпоративных программных приложения (Мартин Фаулер)
+
+10. Clean Architecture (Robert C. Martin)
+
+11. Enterprise Angular (Manfred Steyer)
+
+12. Enterprise Angular Monorepo Patterns (Victor Savkin, Nitin Vericherla)
+
+13. Применение UML 2.0 и шаблонов проектирования (Крэг Ларман)
+
+14. Микросервисы. Паттерны разработки и рефакторинга (Крис Ричардсон)
+
+15. Monolith to Microservices. Evolutionary Patterns to Transform Your Monolith (Sam Newman)
+
+16. Object-Orinted Software Construction (Bertrand Meyer)
+
+17. Pattern-orinted software Architecture (Douglas Schmidt, Michael Stal, Hans Rohnert and Frank Buschmann)
+
+18. Practical Enteprise Data Lake Insights (Saurbah Gupta, Venkata Giri)
+
+19. Распределенные системы. Паттерны проектирования (Брендан Бернс)
+
+20. Reactive messaging patterns with the Actor Model (Vaughn Vernon)
+
+21. Software Architecture in practice (Len Bass, Paul Clements, Rick Kazman)
+
+22. Discovering requirements (Ian Alexander, Ljerka Beus-Dukic)
+
+23. Software Architect's Handbook: Become a successful software architect by implementing effective architecture concepts  (Joseph Ingeno)
+
 ## Algorithms
 
 * [Програмиране = ++Алгоритми; Пето издание, 2015 - Преслав Наков и Панайот Добриков](https://github.com/petyakostova/IT-Books/blob/master/Algorithms/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%B8%D1%80%D0%B0%D0%BD%D0%B5%20%3D%20%2B%2B%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B8%3B%20%D0%9F%D0%B5%D1%82%D0%BE%20%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%2C%202015%20-%20%D0%9F%D1%80%D0%B5%D1%81%D0%BB%D0%B0%D0%B2%20%D0%9D%D0%B0%D0%BA%D0%BE%D0%B2%20%D0%B8%20%D0%9F%D0%B0%D0%BD%D0%B0%D0%B9%D0%BE%D1%82%20%D0%94%D0%BE%D0%B1%D1%80%D0%B8%D0%BA%D0%BE%D0%B2.pdf)
